@@ -1,0 +1,58 @@
+body
+{
+background-position: center;
+background-size: cover;
+font-family: 'Lexend', sans-serif;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: white;
+color: black;
+border-radius: 0px;
+border: white;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+background-color: white;
+color: black;
+border: white;
+border-radius: 4px;
+border-width: 4px;
+border-style: solid;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px white;
+border-radius: 10px;
+margin-top: 130px;
+border: 2px solid white;
+}
+
+#start
+{
+font-size: 18px;
+background-color: white;
+color: black;
+border: white;
+border-radius: 4px;
+border-width: 4px;
+border-style: solid;
+}
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
